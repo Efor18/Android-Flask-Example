@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flask Users</string>
+    
+    <string name="title_activity_login">Flask Users</string>
+    <string name="title_activity_register">Register a User</string>
+    <string name="title_activity_detail">User detail</string>
+    
+    <string name="prompt_username">UserName</string>
+    <string name="prompt_token">Access Token</string>
+    <string name="prompt_id">User id</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_first_name">First name</string>
+    <string name="prompt_last_name">Last name</string>
+    
+    <string name="action_sign_in_short">Log in</string>
+    <string name="action_register">Register</string>
+    <string name="action_delete">Delete user</string>
+    <string name="action_update">Update</string>
+    
+    <string name="register_progress">Registering&#8230;</string>
+    <string name="update_progress">Updating&#8230;</string>
+    <string name="delete_progress">Deleting&#8230;</string>
+    <string name="login_progress_signing_in">Signing in&#8230;</string>
+    
+    <string name="success_delete">User deleted!</string>
+    <string name="success_login">Success! User loged in</string>
+    <string name="success_update">User updated!</string>
+    <string name="success_create">Success!! User created</string>
+   
+    <string name="change_for_update">You have to change anything</string>
+    
+    <string name="error_updating">Error updating user</string>
+    
+    <string name="needed_all_fields">All fields must be completed</string>
+    <string name="needed_user">You must register a user first</string>
+    
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    
+	<string name="error_undefined">Something went wrong!</string>
+	<string name="error_existing_user">This user is already created</string>
+</resources>
